@@ -2,11 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Actuarial Mathematics 
 
 [Insurance Project](/sample_page)
 <img src="images/Pamflet MOCI_Kelompok 3_Tugas Proyek AKTUARIA.png?raw=true"/>
-
+In this project, we make poster about insurance in Finland. In our poster, there is an APV for each age range.
 
 ---
 
